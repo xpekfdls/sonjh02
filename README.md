@@ -1,3 +1,3 @@
 # sonjh02
 
-practicing github pages & [phasor](https://phaser.io/)
+practicing github pages & [phaser](https://phaser.io/)
