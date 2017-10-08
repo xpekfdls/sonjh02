@@ -2,4 +2,4 @@
 
 
 
-> practicing github pages & phasor(https://phaser.io/)
+> practicing github pages & [phasor](https://phaser.io/)
